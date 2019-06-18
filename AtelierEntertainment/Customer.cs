@@ -1,4 +1,6 @@
-﻿namespace AtelierEntertainment
+﻿[assembly: System.Runtime.CompilerServices.InternalsVisibleTo("AtelierEntertainment.Tests")]
+
+namespace AtelierEntertainment
 {
     public class Customer
     {
